@@ -1,0 +1,9 @@
+{
+  "name": "Ubuntu Codespace",
+  "image": "ubuntu:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-ubuntu.ubuntu"]
+    }
+  }
+}
